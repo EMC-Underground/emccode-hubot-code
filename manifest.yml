@@ -1,0 +1,5 @@
+---
+applications:
+- name: codebot
+  memory: 2G
+  buildpack: nodejs_buildpack
